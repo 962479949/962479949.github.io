@@ -6,7 +6,7 @@ description: >
 lang: en-US
 
 baseurl: "/assistq" # the subpath of your site, e.g. /blog/
-url: https://github.com/962479949/962479949.github.io # the base hostname & protocol for your site
+url: https://962479949.github.io # the base hostname & protocol for your site
 git_address: https://github.com/showlab/Q2A
 
 # theme options from https://bootswatch.com/3/
