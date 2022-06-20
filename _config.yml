@@ -5,9 +5,9 @@ description: >
   Affordance-centric Question-driven Task Completion for Egocentric Assistant
 lang: en-US
 
-baseurl: "/assistq" # the subpath of your site, e.g. /blog/
+#baseurl: "/assistq" # the subpath of your site, e.g. /blog/
 url: https://962479949.github.io # the base hostname & protocol for your site
-git_address: https://github.com/showlab/Q2A
+#git_address: https://github.com/showlab/Q2A
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
